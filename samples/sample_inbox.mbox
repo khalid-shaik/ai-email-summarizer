@@ -1,0 +1,126 @@
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Priya Nair <priya@talentbridge.example>
+To: alex@example.com
+Subject: Interview invitation: Data Analyst at Northwind
+Date: Wed, 04 Nov 2026 08:15:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+Hi Alex,
+
+Thank you for applying. We would like to invite you for a 45 minute interview for the Data Analyst position.
+Please confirm your availability by Friday. Can you also send an updated resume before the call?
+The interview will be on Zoom.
+
+Best regards,
+Priya Nair
+Talent Partner
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Rahul Mehta <rahul@example.com>
+To: alex@example.com
+Subject: Weekly report and dashboard review
+Date: Wed, 04 Nov 2026 09:05:00 -0000
+Importance: High
+Content-Type: text/plain; charset=utf-8
+
+Hi Alex,
+
+Can you send the weekly sales report by EOD tomorrow? Also please review the new Power BI dashboard and share feedback.
+The numbers look off for the south region, so this is urgent. I will share the raw data file shortly.
+
+Thanks,
+Rahul
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Billing <billing@cloudhost.example>
+To: alex@example.com
+Subject: Invoice INV-2041 payment due
+Date: Tue, 03 Nov 2026 09:30:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+Hello,
+
+Your invoice INV-2041 for hosting is pending. The amount due is 4500 INR and payment is due by 12 November.
+Please pay using the link in your account. Account reference 123456789012.
+
+Regards,
+CloudHost Billing
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Data Weekly <newsletter@dataweekly.example>
+To: alex@example.com
+Subject: This week in data: 10 SQL tricks + 40% off courses
+Date: Tue, 03 Nov 2026 07:00:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+Welcome to this week's newsletter! This week we cover 10 SQL tricks, a new dashboard gallery and a limited time sale: 40% off all courses.
+View in browser. Unsubscribe at any time.
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Accounts <no-reply@accounts.example>
+To: alex@example.com
+Subject: Security alert: new sign-in to your account
+Date: Mon, 02 Nov 2026 22:10:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+We noticed a new sign-in to your account from a new device. If this was you, no action is needed. If not, please secure your account.
+This is an automated message, do not reply.
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Meera Iyer <meera@example.com>
+To: alex@example.com, rahul@example.com
+Subject: Project Alpha sync
+Date: Sun, 01 Nov 2026 09:30:00 -0000
+Message-ID: <alpha-1@example.com>
+Content-Type: text/plain; charset=utf-8
+
+Hi team,
+
+Let's sync on Project Alpha this week. Which day works for everyone? I'm free Tuesday or Thursday afternoon.
+
+Meera
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Rahul Mehta <rahul@example.com>
+To: meera@example.com, alex@example.com
+Subject: Re: Project Alpha sync
+Date: Mon, 02 Nov 2026 09:30:00 -0000
+Message-ID: <alpha-2@example.com>
+In-Reply-To: <alpha-1@example.com>
+References: <alpha-1@example.com>
+Content-Type: text/plain; charset=utf-8
+
+Thursday works for me. Let's also decide on the data source, I suggest we use the warehouse export.
+
+On Sun, Meera Iyer wrote:
+> Let's sync on Project Alpha this week. Which day works?
+> Meera
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Meera Iyer <meera@example.com>
+To: alex@example.com, rahul@example.com
+Subject: Re: Project Alpha sync
+Date: Tue, 03 Nov 2026 16:00:00 -0000
+Message-ID: <alpha-3@example.com>
+In-Reply-To: <alpha-2@example.com>
+References: <alpha-1@example.com> <alpha-2@example.com>
+Content-Type: text/plain; charset=utf-8
+
+Great, Thursday 3 PM it is. We will go with the warehouse export. Alex, could you prepare a short data quality summary before the meeting? I'll send the invite today.
+
+On Mon, Rahul Mehta wrote:
+> Thursday works for me.
+
+From sender@example.com Wed Nov  4 09:00:00 2026
+From: Sam <sam@example.com>
+To: alex@example.com
+Subject: Dinner on Saturday?
+Date: Wed, 04 Nov 2026 07:40:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+Hey Alex! Are you free for dinner this Saturday? Thinking of that new place near the lake. Let me know!
+
+Sam
+
+Sent from my iPhone
+

@@ -1,0 +1,13 @@
+From: Billing <billing@cloudhost.example>
+To: alex@example.com
+Subject: Invoice INV-2041 payment due
+Date: Tue, 03 Nov 2026 09:30:00 -0000
+Content-Type: text/plain; charset=utf-8
+
+Hello,
+
+Your invoice INV-2041 for hosting is pending. The amount due is 4500 INR and payment is due by 12 November.
+Please pay using the link in your account. Account reference 123456789012.
+
+Regards,
+CloudHost Billing
