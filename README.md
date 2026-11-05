@@ -1,6 +1,5 @@
-# 📧 AI Email Summarizer
-
-**Project 6 of 60 AI agents.** Drop in emails and get a prioritised inbox, plain-English summaries, action items with deadlines, conversation summaries and reply drafts. It runs locally: **all analysis works offline**, and Ollama only adds richer summaries and replies. Emails are processed in memory and never saved to disk.
+# 📧 AI Email SummarizeR
+AI agents, Drop in emails and get a prioritised inbox, plain-English summaries, action items with deadlines, conversation summaries and reply drafts. It runs locally: **all analysis works offline**, and Ollama only adds richer summaries and replies. Emails are processed in memory and never saved to disk.
 
 ## Features
 - **Inputs:** upload `.eml`, `.mbox` (Gmail Takeout) or `.txt`, or paste emails (with or without From/Subject/Date lines)
